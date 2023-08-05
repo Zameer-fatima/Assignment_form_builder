@@ -1,7 +1,6 @@
-[![npm version](https://badge.fury.io/js/react-form-builder2.svg)](//npmjs.com/package/react-form-builder2)
-# React Form Builder 2
+
+# Form Builder 
 A complete react form builder that interfaces with a json endpoint to load and save generated forms.
-- Upgraded to React 16.4.1
 - Use react-dnd for Drag & Drop
 - Save form data with dummy api server
 - Show posted data on readonly form
@@ -120,15 +119,5 @@ $ npm start
 ```
 Then navigate to http://localhost:8080/ in your browser and you should be able to see the form builder in action.
 
-# Examples
-- [Basic](https://github.com/Kiho/react-form-builder/tree/master/examples/demo)
-- [JSON Post](https://github.com/Kiho/react-form-builder/tree/master/examples/custom)
-- [UMD](https://github.com/Kiho/react-form-builder/tree/master/examples/umd)
-- [NEXT](https://github.com/Kiho/react-form-builder/tree/master/examples/next)
-- [NEXT-Mongo](https://github.com/Kiho/react-form-builder/tree/master/examples/mongo)
 
-# Tests
-```bash
-$ npm test
-```
-Test is not working at this moment.
+
